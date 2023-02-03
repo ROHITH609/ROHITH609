@@ -9,3 +9,6 @@
 🌱 I’m currently learning machine learning,datascience,data analysis,Python,Web Technologgies(basics),Data structures
 
 📫 How to reach me email id: reddyrohith54321@gmail.com
+
+ linkedin-https://www.linkedin.com/in/rohith-reddy-630sri265/
+
